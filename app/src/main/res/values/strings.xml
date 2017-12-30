@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music</string>
+
+    <string name="Artists">Artists</string>
+    <string name="Albums">Albums</string>
+    <string name="Favorite">Random </string>
+    <string name="PlayList">Play List</string>
+    <string name="title_activity_album__list">Album_List</string>
+
+</resources>
